@@ -8,7 +8,7 @@ Em 15 de abril de 1912, durante sua viagem inaugural, o amplamente considerado "
 
 Embora houvesse algum elemento de sorte envolvido na sobrevivência, parece que alguns grupos de pessoas eram mais propensos a sobreviver do que outros.
 
-Nesse desafio, pedimos que você construa um modelo preditivo que responda à pergunta: "que tipo de pessoas têm maior probabilidade de sobreviver?" usando dados de passageiros (ou seja, nome, idade, sexo, classe socioeconômica etc.).
+Nesse desafio, pedimos que você construa um modelo preditivo que responda à pergunta: "que tipo de pessoas têm maior probabilidade de sobreviver?" usando dados de passageiros (ou seja, nome, idade, sexo, classe socioeconômica etc.)(Kaggle).
 
 
 #Projeto desenvolvido para competição kaggle, com acuracia de 78%, atingindo a meta proposta de 76%.
